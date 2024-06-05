@@ -1,0 +1,12 @@
+body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+       
+    }
+    
+    #clock {
+        font-size: 48px;
+        font-family: 'Arial', sans-serif;
+    }
